@@ -35,6 +35,9 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
  - GET `/api/accomodations/:id`
  - DELETE `/api/accomodations/:id`
 
+## ERD
+![API ERD](./erd.jpeg)
+
 ## Learn more
 
   * Official website: https://www.phoenixframework.org/
