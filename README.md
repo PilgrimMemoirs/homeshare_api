@@ -37,7 +37,7 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 
 ## ERD
 ![API ERD](./erd.jpeg)
-(note: line from user to accomodations table is missing)
+(note: lines from user to accomodations and accomodations to availabilities are missing)
 
 ## Learn more
 
